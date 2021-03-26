@@ -1,5 +1,4 @@
-
-<link rel="stylesheet" type="text/css" media="all" href="css/latex.css" />
+<link href="css/latex.css" rel="stylesheet"></link>
 
 Research
 ========
