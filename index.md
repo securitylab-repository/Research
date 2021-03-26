@@ -1,5 +1,3 @@
-Research 
-
 Research
 ========
 
