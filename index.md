@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="css/latex_no_numbers.css" />
+<link rel="stylesheet" type="text/css" media="all" href="css/latex.css" />
 Research
 ========
 
